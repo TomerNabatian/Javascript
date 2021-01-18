@@ -1,4 +1,4 @@
-"use strict"
+-"use strict"
 let x,y,triangle;
 triangle="";
 for(x=1; x <=6; x++)
